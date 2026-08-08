@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Artem 👋
 
-<!--
-**artem-slastyon/artem-slastyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer with 4+ years of commercial experience in building web applications, RESTful APIs, and microservices using PHP, Laravel, and modern database/queue architectures.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack & Tools
+- **Languages & Frameworks:** PHP 8.x, Laravel 12, Phalcon
+- **Databases & Caching:** PostgreSQL, MySQL / MariaDB, Redis
+- **Message Brokers:** RabbitMQ
+- **DevOps & Tools:** Docker, Docker Compose, Nginx, Git, REST API, Swagger / OpenAPI, Linux
+- **Testing & Quality:** PHPUnit, Pest, SOLID, Clean Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Projects
+
+- **[SmartHeadTest](https://github.com/artem-slastyon/SmartHeadTest)** — Support ticketing system with ACL, Media Uploads, and Docker setup.
+
+---
+
+### 📫 Connect with me
+- **Email:** artyom.slastyon@gmail.com
+- **LinkedIn:** [linkedin.com/in/artem-slastyon](https://www.linkedin.com/in/artem-slastyon)
