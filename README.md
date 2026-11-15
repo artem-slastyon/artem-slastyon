@@ -24,6 +24,7 @@ Open to Middle+/Senior Backend roles in high-load product companies (iGaming, Fi
 
 - **Email:** artyom.slastyon@gmail.com
 - **LinkedIn:** [linkedin.com/in/artem-slastyon](https://www.linkedin.com/in/artem-slastyon)
+- **Portfolio:** [portfolio.tenorium.com](https://portfolio.tenorium.com)
+- **GitLab (Full Portfolio):** [gitlab.com/tenorium](https://gitlab.com/tenorium)
 - **Telegram:** [@artem_slastyon](https://t.me/artem_slastyon)
 - **X:** [@artem_slastyon](https://x.com/artem_slastyon)
-- **Portfolio:** [portfolio.tenorium.com](https://portfolio.tenorium.com)
